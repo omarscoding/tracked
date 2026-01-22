@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-react-app:*)",
+      "Bash(npm install:*)",
+      "Bash(npx tailwindcss init -p)",
+      "Bash(npx tailwindcss:*)",
+      "Bash(./node_modules/.bin/tailwindcss:*)",
+      "Bash(npm uninstall:*)",
+      "Bash(npm start)",
+      "Bash(for i in 1 2 3 4 5 6 7 8)",
+      "Bash(do printf \".\")",
+      "Bash(/bin/sleep 1)",
+      "Bash(done)",
+      "Bash(lsof:*)",
+      "Bash(xargs kill -9)",
+      "Bash(PORT=3001 npm start:*)",
+      "Bash(for i in 1 2 3 4 5 6 7 8 9 10 11 12)",
+      "Bash(npm run build:*)"
+    ]
+  }
+}
